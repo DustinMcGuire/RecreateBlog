@@ -11,13 +11,13 @@ h2 {
     font-weight: 700;
     font-size: 48px;
     color: #3d3d3d;
-    margin: 10px;
+    margin: 10px 20px;
 }
 h5 {
     color: #3498db;
     text-align: right;
     text-transform: uppercase;
-    margin: 10px;
+    margin: 10px 20px;
     font-weight: lighter;
 
 }
