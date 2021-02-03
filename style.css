@@ -29,6 +29,7 @@ p {
 }
 #p6 {
     border-bottom: 0px;
+    padding-bottom: 0;
 }
 #p3 {
     border-bottom: 10px solid #bdc3c7;
@@ -37,5 +38,5 @@ p {
     text-align: center;
 }
 h2:hover {
-    letter-spacing: 20px;
+    letter-spacing: 15px;
 }
