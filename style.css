@@ -1,7 +1,8 @@
 body {
     font-family: 'Lato', sans-serif;
-    border: 10px solid #bdc3c7;
-    border-radius: 10px;
+    border: 15px solid #bdc3c7;
+    border-radius: 15px;
+    width: 80%;
     
 }
 h2 {
@@ -29,7 +30,7 @@ p {
     border-bottom: 0px;
 }
 #p3 {
-    border-bottom: 15px solid #bdc3c7;
+    border-bottom: 10px solid #bdc3c7;
 }
 #p2 , #p5 {
     text-align: center;
