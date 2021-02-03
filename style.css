@@ -1,0 +1,39 @@
+body {
+    font-family: 'Lato', sans-serif;
+    border: 10px solid #bdc3c7;
+    border-radius: 10px;
+    
+}
+h2 {
+    letter-spacing: 3.2px;
+    font-weight: 700;
+    font-size: 48px;
+    color: #3d3d3d;
+    margin: 10px;
+}
+h5 {
+    color: #3498db;
+    text-align: right;
+    text-transform: uppercase;
+    margin: 10px;
+    font-weight: lighter;
+
+}
+p {
+    border-bottom: 5px solid #bdc3c7 ;
+    margin: 20px;
+    text-align: right;
+    padding-bottom: 20px;
+}
+#p6 {
+    border-bottom: 0px;
+}
+#p3 {
+    border-bottom: 15px solid #bdc3c7;
+}
+#p2 , #p5 {
+    text-align: center;
+}
+h2:hover {
+    letter-spacing: 20px;
+}
